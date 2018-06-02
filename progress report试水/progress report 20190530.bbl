@@ -1,0 +1,120 @@
+\begin{thebibliography}{10}
+
+\bibitem{dally1990performance}
+William~J. Dally.
+\newblock Performance analysis of k-ary n-cube interconnection networks.
+\newblock {\em IEEE transactions on Computers}, 39(6):775--785, 1990.
+
+\bibitem{silver2016mastering}
+David Silver, Aja Huang, Chris~J Maddison, Arthur Guez, Laurent Sifre, George
+  Van Den~Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda
+  Panneershelvam, Marc Lanctot, et~al.
+\newblock Mastering the game of go with deep neural networks and tree search.
+\newblock {\em nature}, 529(7587):484--489, 2016.
+
+\bibitem{hennessy2017computer}
+John~L Hennessy and David~A Patterson.
+\newblock {\em Computer architecture: a quantitative approach}.
+\newblock Elsevier, 6 edition, 2017.
+
+\bibitem{borkar2007thousand}
+Shekhar Borkar.
+\newblock Thousand core chips: a technology perspective.
+\newblock In {\em Proceedings of the 44th annual Design Automation Conference},
+  pages 746--749. ACM, 2007.
+
+\bibitem{padoin2014performance}
+Edson~Luiz Padoin, La{\'e}rcio~Lima Pilla, M{\'a}rcio Castro, Francieli~Z
+  Boito, Philippe Olivier~Alexandre Navaux, and Jean-Fran{\c{c}}ois M{\'e}haut.
+\newblock Performance/energy trade-off in scientific computing: the case of arm
+  big. little and intel sandy bridge.
+\newblock {\em IET Computers \& Digital Techniques}, 9(1):27--35, 2014.
+
+\bibitem{furber2013overview}
+Steve~B Furber, David~R Lester, Luis~A Plana, Jim~D Garside, Eustace Painkras,
+  Steve Temple, and Andrew~D Brown.
+\newblock Overview of the spinnaker system architecture.
+\newblock {\em IEEE Transactions on Computers}, 62(12):2454--2467, 2013.
+
+\bibitem{furber2014spinnaker}
+Steve~B Furber, Francesco Galluppi, Steve Temple, and Luis~A Plana.
+\newblock The spinnaker project.
+\newblock {\em Proceedings of the IEEE}, 102(5):652--665, 2014.
+
+\bibitem{dean2012large}
+Jeffrey Dean, Greg Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Mark Mao,
+  Andrew Senior, Paul Tucker, Ke~Yang, Quoc~V Le, et~al.
+\newblock Large scale distributed deep networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1223--1231, 2012.
+
+\bibitem{ren2015faster}
+Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun.
+\newblock Faster r-cnn: Towards real-time object detection with region proposal
+  networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  91--99, 2015.
+
+\bibitem{schmidhuber2015deep}
+J{\"u}rgen Schmidhuber.
+\newblock Deep learning in neural networks: An overview.
+\newblock {\em Neural networks}, 61:85--117, 2015.
+
+\bibitem{jouppi2017datacenter}
+Norman~P Jouppi, Cliff Young, Nishant Patil, David Patterson, Gaurav Agrawal,
+  Raminder Bajwa, Sarah Bates, Suresh Bhatia, Nan Boden, Al~Borchers, et~al.
+\newblock In-datacenter performance analysis of a tensor processing unit.
+\newblock In {\em Proceedings of the 44th Annual International Symposium on
+  Computer Architecture}, pages 1--12. ACM, 2017.
+
+\bibitem{silver2017mastering}
+David Silver, Julian Schrittwieser, Karen Simonyan, Ioannis Antonoglou, Aja
+  Huang, Arthur Guez, Thomas Hubert, Lucas Baker, Matthew Lai, Adrian Bolton,
+  et~al.
+\newblock Mastering the game of go without human knowledge.
+\newblock {\em Nature}, 550(7676):354, 2017.
+
+\bibitem{chen2014dadiannao}
+Yunji Chen, Tao Luo, Shaoli Liu, Shijin Zhang, Liqiang He, Jia Wang, Ling Li,
+  Tianshi Chen, Zhiwei Xu, Ninghui Sun, et~al.
+\newblock Dadiannao: A machine-learning supercomputer.
+\newblock In {\em Proceedings of the 47th Annual IEEE/ACM International
+  Symposium on Microarchitecture}, pages 609--622. IEEE Computer Society, 2014.
+
+\bibitem{zhang2015optimizing}
+Chen Zhang, Peng Li, Guangyu Sun, Yijin Guan, Bingjun Xiao, and Jason Cong.
+\newblock Optimizing fpga-based accelerator design for deep convolutional
+  neural networks.
+\newblock In {\em Proceedings of the 2015 ACM/SIGDA International Symposium on
+  Field-Programmable Gate Arrays}, pages 161--170. ACM, 2015.
+
+\bibitem{merolla2014million}
+Paul~A Merolla, John~V Arthur, Rodrigo Alvarez-Icaza, Andrew~S Cassidy, Jun
+  Sawada, Filipp Akopyan, Bryan~L Jackson, Nabil Imam, Chen Guo, Yutaka
+  Nakamura, et~al.
+\newblock A million spiking-neuron integrated circuit with a scalable
+  communication network and interface.
+\newblock {\em Science}, 345(6197):668--673, 2014.
+
+\bibitem{esmaeilzadeh2011dark}
+Hadi Esmaeilzadeh, Emily Blem, Renee~St Amant, Karthikeyan Sankaralingam, and
+  Doug Burger.
+\newblock Dark silicon and the end of multicore scaling.
+\newblock In {\em Computer Architecture (ISCA), 2011 38th Annual International
+  Symposium on}, pages 365--376. IEEE, 2011.
+
+\bibitem{taylor2012dark}
+Michael~B Taylor.
+\newblock Is dark silicon useful? harnessing the four horsemen of the coming
+  dark silicon apocalypse.
+\newblock In {\em Design Automation Conference (DAC), 2012 49th ACM/EDAC/IEEE},
+  pages 1131--1136. IEEE, 2012.
+
+\bibitem{emer2002asim}
+Joel Emer, Pritpal Ahuja, Eric Borch, Artur Klauser, Chi-Keung Luk, Srilatha
+  Manne, Shubhendu~S Mukherjee, Harish Patil, Steven Wallace, Nathan Binkert,
+  et~al.
+\newblock Asim: A performance model framework.
+\newblock {\em Computer}, 35(2):68--76, 2002.
+
+\end{thebibliography}
