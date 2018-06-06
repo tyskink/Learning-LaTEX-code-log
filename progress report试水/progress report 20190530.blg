@@ -1,4 +1,60 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: progress report 20190530.aux
+This is BibTeX, Version 0.99d (TeX Live 2017/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: progress report 20190530.aux
 A level-1 auxiliary file: 1-Introduction.aux
+A level-1 auxiliary file: 2-Literature_Review.aux
+A level-1 auxiliary file: 3-Case_Study.aux
+A level-1 auxiliary file: 4-Practice_SystemC_with_RISC-V.aux
+A level-1 auxiliary file: 5-Research_Plan_and_Further_More.aux
 The style file: unsrt.bst
 Database file #1: bibliography.bib
+Warning--can't use both volume and number fields in Wall1991176Limits
+Warning--can't use both volume and number fields in klaiber1994comparison
+Warning--can't use both volume and number fields in chien1992planar
+Warning--can't use both volume and number fields in chi2016prime
+Warning--can't use both volume and number fields in kelm2010cohesion
+Warning--can't use both volume and number fields in boehm2008foundations
+Warning--can't use both volume and number fields in blundell2009invisifence
+Warning--can't use both volume and number fields in devietti2012radish
+You've used 116 entries,
+            1791 wiz_defined-function locations,
+            1079 strings with 26082 characters,
+and the built_in function-call counts, 32870 in all, are:
+= -- 3082
+> -- 1461
+< -- 53
++ -- 536
+- -- 420
+* -- 2180
+:= -- 4879
+add.period$ -- 397
+call.type$ -- 116
+change.case$ -- 109
+chr.to.int$ -- 0
+cite$ -- 124
+duplicate$ -- 1507
+empty$ -- 3137
+format.name$ -- 420
+if$ -- 7598
+int.to.chr$ -- 0
+int.to.str$ -- 116
+missing$ -- 114
+newline$ -- 590
+num.names$ -- 116
+pop$ -- 435
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 808
+stack$ -- 0
+substring$ -- 2292
+swap$ -- 544
+text.length$ -- 53
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 8
+while$ -- 335
+width$ -- 119
+write$ -- 1320
+(There were 8 warnings)

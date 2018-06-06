@@ -1,9 +1,14 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{dally1990performance}
 William~J. Dally.
 \newblock Performance analysis of k-ary n-cube interconnection networks.
 \newblock {\em IEEE transactions on Computers}, 39(6):775--785, 1990.
+
+\bibitem{wulf1995hitting}
+Wm~A Wulf and Sally~A McKee.
+\newblock Hitting the memory wall: implications of the obvious.
+\newblock {\em ACM SIGARCH computer architecture news}, 23(1):20--24, 1995.
 
 \bibitem{silver2016mastering}
 David Silver, Aja Huang, Chris~J Maddison, Arthur Guez, Laurent Sifre, George
@@ -116,5 +121,612 @@ Joel Emer, Pritpal Ahuja, Eric Borch, Artur Klauser, Chi-Keung Luk, Srilatha
   et~al.
 \newblock Asim: A performance model framework.
 \newblock {\em Computer}, 35(2):68--76, 2002.
+
+\bibitem{patterson2017computer}
+David~A Patterson and John~L Hennessy.
+\newblock {\em Computer Organization and Design RISC-V Edition: The
+  Hardware/Software Interface}.
+\newblock Newnes, 2017.
+
+\bibitem{ceze2016arch2030}
+Luis Ceze, Mark~D Hill, and Thomas~F Wenisch.
+\newblock Arch2030: A vision of computer architecture research over the next 15
+  years.
+\newblock {\em arXiv preprint arXiv:1612.03182}, 2016.
+
+\bibitem{ITRS2015}
+ITRS.
+\newblock International technology roadmap for semiconductors 2.0.
+\newblock \url{http://www.itrs2.net/itrs-reports.html}, 2015.
+\newblock Accessed 2 May 2018.
+
+\bibitem{chien2013moore}
+Andrew~A Chien and Vijay Karamcheti.
+\newblock Moore's law: The first ending and a new beginning.
+\newblock {\em Computer}, 46(12):48--53, 2013.
+
+\bibitem{courtland2016transistors}
+Rachel Courtland.
+\newblock Transistors could stop shrinking in 2021.
+\newblock {\em IEEE Spectrum}, 53(9):9--11, 2016.
+
+\bibitem{national2011future}
+National~Research Council et~al.
+\newblock {\em The Future of Computing Performance: Game Over or Next Level?}
+\newblock National Academies Press, 2011.
+
+\bibitem{von1993first}
+John Von~Neumann.
+\newblock First draft of a report on the edvac.
+\newblock {\em IEEE Annals of the History of Computing}, 15(4):27--75, 1993.
+
+\bibitem{postiff1999limits}
+Matthew~A Postiff, David~A Greene, Gary~S Tyson, and Trevor~N Mudge.
+\newblock The limits of instruction level parallelism in spec95 applications.
+\newblock {\em SIGARCH Computer Architecture News}, 27(1):31--34, 1999.
+
+\bibitem{Wall1991176Limits}
+David~W. Wall.
+\newblock Limits of instruction-level parallelism.
+\newblock In {\em International Conference on Architectural Support for
+  Programming Languages and Operating Systems - ASPLOS}, volume~26, pages
+  176--188, Santa Clara, CA, USA, 1991. Publ by ACM, New York.
+
+\bibitem{winkel2004exploring}
+Sebastian Winkel.
+\newblock Exploring the performance potential of itanium{\textregistered}
+  processors with ilp-based scheduling.
+\newblock In {\em Proceedings of the international symposium on Code generation
+  and optimization: feedback-directed and runtime optimization}, page 189. IEEE
+  Computer Society, 2004.
+
+\bibitem{wang2009dynamic}
+Cheng Wang, Youfeng Wu, Edson Borin, Shiliang Hu, Wei Liu, Dave Sager, Tin-fook
+  Ngai, and Jesse Fang.
+\newblock Dynamic parallelization of single-threaded binary programs using
+  speculative slicing.
+\newblock In {\em Proceedings of the 23rd international conference on
+  Supercomputing}, pages 158--168. ACM, 2009.
+
+\bibitem{xekalakis2012mixed}
+Polychronis Xekalakis, Nikolas Ioannou, and Marcelo Cintra.
+\newblock Mixed speculative multithreaded execution models.
+\newblock {\em ACM Transactions on Architecture and Code Optimization (TACO)},
+  9(3):18, 2012.
+
+\bibitem{asanovic2006landscape}
+Krste Asanovic, Ras Bodik, Bryan~Christopher Catanzaro, Joseph~James Gebis,
+  Parry Husbands, Kurt Keutzer, David~A Patterson, William~Lester Plishker,
+  John Shalf, Samuel~Webb Williams, et~al.
+\newblock The landscape of parallel computing research: A view from berkeley.
+\newblock Technical report, Technical Report UCB/EECS-2006-183, EECS
+  Department, University of California, Berkeley, 2006.
+
+\bibitem{chung2010single}
+Eric~S Chung, Peter~A Milder, James~C Hoe, and Ken Mai.
+\newblock Single-chip heterogeneous computing: Does the future include custom
+  logic, fpgas, and gpgpus?
+\newblock In {\em Proceedings of the 2010 43rd Annual IEEE/ACM International
+  Symposium on Microarchitecture}, pages 225--236. IEEE Computer Society, 2010.
+
+\bibitem{kreupl2013electronics}
+Franz Kreupl.
+\newblock Electronics: The carbon-nanotube computer has arrived.
+\newblock {\em Nature}, 501(7468):495, 2013.
+
+\bibitem{manheimer2015cryogenic}
+Marc~A Manheimer.
+\newblock Cryogenic computing complexity program: Phase 1 introduction.
+\newblock {\em IEEE Transactions on Applied Superconductivity}, 25(3):1--4,
+  2015.
+
+\bibitem{hatayama2018inverse}
+Shogo Hatayama, Yuji Sutou, Satoshi Shindo, Yuta Saito, Yun-Heub Song, Daisuke
+  Ando, and Junichi Koike.
+\newblock Inverse resistance change cr2ge2te6-based pcram enabling
+  ultralow-energy amorphization.
+\newblock {\em ACS applied materials \& interfaces}, 10(3):2725--2734, 2018.
+
+\bibitem{akinaga2010resistive}
+Hiroyuki Akinaga and Hisashi Shima.
+\newblock Resistive random access memory (reram) based on metal oxides.
+\newblock {\em Proceedings of the IEEE}, 98(12):2237--2251, 2010.
+
+\bibitem{hennessy2011computer}
+John~L Hennessy and David~A Patterson.
+\newblock {\em Computer architecture: a quantitative approach}.
+\newblock Elsevier, 5 edition, 2011.
+
+\bibitem{culler1999parallel}
+David~E Culler, Jaswinder~Pal Singh, and Anoop Gupta.
+\newblock {\em Parallel computer architecture: a hardware/software approach}.
+\newblock Gulf Professional Publishing, 1999.
+
+\bibitem{flynn1966very}
+Michael~J Flynn.
+\newblock Very high-speed computing systems.
+\newblock {\em Proceedings of the IEEE}, 54(12):1901--1909, 1966.
+
+\bibitem{klaiber1994comparison}
+Alexander~C Klaiber and Henry~M Levy.
+\newblock A comparison of message passing and shared memory architectures for
+  data parallel programs.
+\newblock In {\em ACM SIGARCH Computer Architecture News}, volume~22, pages
+  94--105. IEEE Computer Society Press, 1994.
+
+\bibitem{leblanc1992shared}
+Thomas~J LeBlanc and Evangelos~P Markatos.
+\newblock Shared memory vs. message passing in shared-memory multiprocessors.
+\newblock In {\em Parallel and Distributed Processing, 1992. Proceedings of the
+  Fourth IEEE Symposium on}, pages 254--263. IEEE, 1992.
+
+\bibitem{dongarra2005high}
+Jack Dongarra, Thomas Sterling, Horst Simon, and Erich Strohmaier.
+\newblock High-performance computing: clusters, constellations, mpps, and
+  future directions.
+\newblock {\em Computing in Science \& Engineering}, 7(2):51--59, 2005.
+
+\bibitem{seitz1985cosmic}
+Charles~L Seitz.
+\newblock The cosmic cube.
+\newblock {\em Communications of the ACM}, 28(1):22--33, 1985.
+
+\bibitem{Hillis1985The}
+William~Danny Hillis.
+\newblock {\em The connection machine}.
+\newblock MIT press, 1985.
+
+\bibitem{leiserson1992network}
+Charles~E Leiserson, Zahi~S Abuhamdeh, David~C Douglas, Carl~R Feynman,
+  Mahesh~N Ganmukhi, Jeffrey~V Hill, Daniel Hillis, Bradley~C Kuszmaul,
+  Margaret~A St~Pierre, David~S Wells, et~al.
+\newblock The network architecture of the connection machine cm-5.
+\newblock In {\em Proceedings of the fourth annual ACM symposium on Parallel
+  algorithms and architectures}, pages 272--285. ACM, 1992.
+
+\bibitem{top5002017supercomputer}
+Top500.org.
+\newblock November 2017 | top500 supercomputer sites.
+\newblock \url{https://www.top500.org/lists/2017/11/ }, 2017.
+\newblock Accessed 27 May 2018.
+
+\bibitem{hemani1999lowering}
+Ahmed Hemani, Thomas Meincke, Shashi Kumar, Adam Postula, Thomas Olsson, Peter
+  Nilsson, J~Oberg, Peeter Ellervee, and Dan Lundqvist.
+\newblock Lowering power consumption in clock by using globally asynchronous
+  locally synchronous design style.
+\newblock In {\em Proceedings of the 36th annual ACM/IEEE Design Automation
+  Conference}, pages 873--878. ACM, 1999.
+
+\bibitem{hill2008amdahl}
+Mark~D Hill and Michael~R Marty.
+\newblock Amdahl's law in the multicore era.
+\newblock {\em Computer}, 41(7), 2008.
+
+\bibitem{williams2009roofline}
+Samuel Williams, Andrew Waterman, and David Patterson.
+\newblock Roofline: an insightful visual performance model for multicore
+  architectures.
+\newblock {\em Communications of the ACM}, 52(4):65--76, 2009.
+
+\bibitem{jantsch2003networks}
+Axel Jantsch, Hannu Tenhunen, et~al.
+\newblock {\em Networks on chip}, volume 396.
+\newblock Springer, 2003.
+
+\bibitem{duato2003interconnection}
+Jose Duato, Sudhakar Yalamanchili, and Lionel~M Ni.
+\newblock {\em Interconnection networks: an engineering approach}.
+\newblock Morgan Kaufmann, 2003.
+
+\bibitem{dally2004principles}
+William~James Dally and Brian~Patrick Towles.
+\newblock {\em Principles and practices of interconnection networks}.
+\newblock Elsevier, 2004.
+
+\bibitem{holt1972some}
+Richard~C Holt.
+\newblock Some deadlock properties of computer systems.
+\newblock {\em ACM Computing Surveys (CSUR)}, 4(3):179--196, 1972.
+
+\bibitem{gunther1981prevention}
+Klaus Gunther.
+\newblock Prevention of deadlocks in packet-switched data transport systems.
+\newblock {\em IEEE Transactions on Communications}, 29(4):512--524, 1981.
+
+\bibitem{dally1987deadlock}
+WJ~Dally and CL~Seitz.
+\newblock Deadlock-free message routing in multiprocessor interconnection
+  networks.
+\newblock {\em IEEE Transactions on Computers}, 36(5):547--553, 1987.
+
+\bibitem{kermani1979virtual}
+Parviz Kermani and Leonard Kleinrock.
+\newblock Virtual cut-through: A new computer communication switching
+  technique.
+\newblock {\em Computer Networks (1976)}, 3(4):267--286, 1979.
+
+\bibitem{dally1986torus}
+William~J Dally and Charles~L Seitz.
+\newblock The torus routing chip.
+\newblock {\em Distributed computing}, 1(4):187--196, 1986.
+
+\bibitem{valiant1981universal}
+Leslie~G Valiant and Gordon~J Brebner.
+\newblock Universal schemes for parallel communication.
+\newblock In {\em Proceedings of the thirteenth annual ACM symposium on Theory
+  of computing}, pages 263--277. ACM, 1981.
+
+\bibitem{nesson1995romm}
+Ted Nesson and S~Lennart Johnsson.
+\newblock Romm routing on mesh and torus networks.
+\newblock In {\em Proceedings of the seventh annual ACM symposium on Parallel
+  algorithms and architectures}, pages 275--287. ACM, 1995.
+
+\bibitem{singh2002locality}
+Arjun Singh, William~J Dally, Brian Towles, and Amit~K Gupta.
+\newblock Locality-preserving randomized oblivious routing on torus networks.
+\newblock In {\em Proceedings of the fourteenth annual ACM symposium on
+  Parallel algorithms and architectures}, pages 9--13. ACM, 2002.
+
+\bibitem{linder1991adaptive}
+Daniel~H. Linder and James~C. Harden.
+\newblock An adaptive and fault tolerant wormhole routing strategy for k-ary
+  n-cubes.
+\newblock {\em IEEE Transactions on computers}, 40(1):2--12, 1991.
+
+\bibitem{ni1993survey}
+Lionel~M. Ni and Philip~K. McKinley.
+\newblock A survey of wormhole routing techniques in direct networks.
+\newblock {\em Computer}, 26(2):62--76, 1993.
+
+\bibitem{chiu2000odd}
+Ge-Ming Chiu.
+\newblock The odd-even turn model for adaptive routing.
+\newblock {\em IEEE Transactions on parallel and distributed systems},
+  11(7):729--738, 2000.
+
+\bibitem{chien1992planar}
+Andrew~A Chien and Jae~H Kim.
+\newblock {\em Planar-adaptive routing: Low-cost adaptive networks for
+  multiprocessors}, volume~20.
+\newblock ACM, 1992.
+
+\bibitem{dally1993deadlock}
+William~J. Dally and Hiromichi Aoki.
+\newblock Deadlock-free adaptive routing in multicomputer networks using
+  virtual channels.
+\newblock {\em IEEE transactions on Parallel and Distributed Systems},
+  4(4):466--475, 1993.
+
+\bibitem{ramakrishna2016gca}
+Mukund Ramakrishna, Vamsi~Krishna Kodati, Paul~V Gratz, and Alexander
+  Sprintson.
+\newblock Gca: Global congestion awareness for load balance in
+  networks-on-chip.
+\newblock {\em IEEE Transactions on Parallel and Distributed Systems},
+  27(7):2022--2035, 2016.
+
+\bibitem{ebrahimi2017ebda}
+Masoumeh Ebrahimi and Masoud Daneshtalab.
+\newblock Ebda: a new theory on design and verification of deadlock-free
+  interconnection networks.
+\newblock In {\em Proceedings of the 44th Annual International Symposium on
+  Computer Architecture}, pages 703--715. ACM, 2017.
+
+\bibitem{glass1992turn}
+Christopher~J Glass and Lionel~M Ni.
+\newblock The turn model for adaptive routing.
+\newblock {\em ACM SIGARCH Computer Architecture News}, 20(2):278--287, 1992.
+
+\bibitem{duato1993new}
+Jos{\'e} Duato.
+\newblock A new theory of deadlock-free adaptive routing in wormhole networks.
+\newblock {\em IEEE transactions on parallel and distributed systems},
+  4(12):1320--1331, 1993.
+
+\bibitem{towles2002worst}
+Brian Towles and William~J Dally.
+\newblock Worst-case traffic for oblivious routing functions.
+\newblock In {\em Proceedings of the fourteenth annual ACM symposium on
+  Parallel algorithms and architectures}, pages 1--8. ACM, 2002.
+
+\bibitem{vantrease2011atomic}
+Dana Vantrease, Mikko~H Lipasti, and Nathan Binkert.
+\newblock Atomic coherence: Leveraging nanophotonics to build race-free cache
+  coherence protocols.
+\newblock In {\em High Performance Computer Architecture (HPCA), 2011 IEEE 17th
+  International Symposium on}, pages 132--143. IEEE, 2011.
+
+\bibitem{abadal2015broadcast}
+Sergi Abadal, Benny Sheinman, Oded Katz, Ofer Markish, Danny Elad, Yvan
+  Fournier, Damian Roca, Mauricio Hanzich, Guillaume Houzeaux, Mario
+  Nemirovsky, et~al.
+\newblock Broadcast-enabled massive multicore architectures: A wireless rf
+  approach.
+\newblock {\em IEEE micro}, 35(5):52--61, 2015.
+
+\bibitem{murali2009synthesis}
+Srinivasan Murali, Ciprian Seiculescu, Luca Benini, and Giovanni De~Micheli.
+\newblock Synthesis of networks on chips for 3d systems on chips.
+\newblock In {\em Proceedings of the 2009 Asia and South Pacific Design
+  Automation Conference}, pages 242--247. IEEE Press, 2009.
+
+\bibitem{goodman1983using}
+James~R Goodman.
+\newblock Using cache memory to reduce processor-memory traffic.
+\newblock {\em ACM SIGARCH Computer Architecture News}, 11(3):124--131, 1983.
+
+\bibitem{Hruska2017blog}
+Joel Hruska.
+\newblock How l1 and l2 cpu caches work, and why they're an essential part of
+  modern chips.
+\newblock
+  \url{https://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips
+  }, 2017.
+\newblock Accessed 14 May 2018.
+
+\bibitem{nantero2018NRAM}
+Nantero.com.
+\newblock Nantero nram.
+\newblock \url{http://nantero.com/ }, 2017.
+\newblock Accessed 27 May 2018.
+
+\bibitem{chi2016prime}
+Ping Chi, Shuangchen Li, Cong Xu, Tao Zhang, Jishen Zhao, Yongpan Liu, Yu~Wang,
+  and Yuan Xie.
+\newblock Prime: a novel processing-in-memory architecture for neural network
+  computation in reram-based main memory.
+\newblock In {\em ACM SIGARCH Computer Architecture News}, volume~44, pages
+  27--39. IEEE Press, 2016.
+
+\bibitem{qureshi2009scalable}
+Moinuddin~K Qureshi, Vijayalakshmi Srinivasan, and Jude~A Rivers.
+\newblock Scalable high performance main memory system using phase-change
+  memory technology.
+\newblock {\em ACM SIGARCH Computer Architecture News}, 37(3):24--33, 2009.
+
+\bibitem{sorin2011primer}
+Daniel~J Sorin, Mark~D Hill, and David~A Wood.
+\newblock A primer on memory consistency and cache coherence.
+\newblock {\em Synthesis Lectures on Computer Architecture}, 6(3):1--212, 2011.
+
+\bibitem{papamarcos1998low}
+Mark~S Papamarcos and Janak~H Patel.
+\newblock A low-overhead coherence solution for multiprocessors with private
+  cache memories.
+\newblock In {\em 25 years of the international symposia on Computer
+  architecture (selected papers)}, pages 284--290. ACM, 1998.
+
+\bibitem{wilson1987hierarchical}
+Andrew~W Wilson~Jr.
+\newblock Hierarchical cache/bus architecture for shared memory
+  multiprocessors.
+\newblock In {\em Proceedings of the 14th annual international symposium on
+  Computer architecture}, pages 244--252. ACM, 1987.
+
+\bibitem{archibald1986cache}
+James Archibald and Jean-Loup Baer.
+\newblock Cache coherence protocols: Evaluation using a multiprocessor
+  simulation model.
+\newblock {\em ACM Transactions on Computer Systems (TOCS)}, 4(4):273--298,
+  1986.
+
+\bibitem{ARMA57TRM}
+ARM.
+\newblock {\em ARM® Cortex®-A57 MPCore Processor Technical Reference Manual},
+  r1p1 edition, 2013.
+
+\bibitem{martin2003token}
+Milo~MK Martin, Mark~D Hill, and David~A Wood.
+\newblock Token coherence: Decoupling performance and correctness.
+\newblock {\em ACM SIGARCH Computer Architecture News}, 31(2):182--193, 2003.
+
+\bibitem{zebchuk2009tagless}
+Jason Zebchuk, Vijayalakshmi Srinivasan, Moinuddin~K Qureshi, and Andreas
+  Moshovos.
+\newblock A tagless coherence directory.
+\newblock In {\em Proceedings of the 42nd Annual IEEE/ACM International
+  Symposium on Microarchitecture}, pages 423--434. ACM, 2009.
+
+\bibitem{jerger2008virtual}
+Natalie D~Enright Jerger, Li-Shiuan Peh, and Mikko~H Lipasti.
+\newblock Virtual tree coherence: Leveraging regions and in-network multicast
+  trees for scalable cache coherence.
+\newblock In {\em Microarchitecture, 2008. MICRO-41. 2008 41st IEEE/ACM
+  International Symposium on}, pages 35--46. IEEE, 2008.
+
+\bibitem{shacham2008verification}
+Ofer Shacham, Megan Wachs, Alex Solomatnikov, Amin Firoozshahian, Stephen
+  Richardson, and Mark Horowitz.
+\newblock Verification of chip multiprocessor memory systems using a relaxed
+  scoreboard.
+\newblock In {\em Microarchitecture, 2008. MICRO-41. 2008 41st IEEE/ACM
+  International Symposium on}, pages 294--305. IEEE, 2008.
+
+\bibitem{kelm2010cohesion}
+John~H Kelm, Daniel~R Johnson, William Tuohy, Steven~S Lumetta, and Sanjay~J
+  Patel.
+\newblock Cohesion: a hybrid memory model for accelerators.
+\newblock In {\em ACM SIGARCH Computer Architecture News}, volume~38, pages
+  429--440. ACM, 2010.
+
+\bibitem{sanchez2012scd}
+Daniel Sanchez and Christos Kozyrakis.
+\newblock Scd: A scalable coherence directory with flexible sharer set
+  encoding.
+\newblock In {\em High Performance Computer Architecture (HPCA), 2012 IEEE 18th
+  International Symposium on}, pages 1--12. IEEE, 2012.
+
+\bibitem{adve1996shared}
+Sarita~V Adve and Kourosh Gharachorloo.
+\newblock Shared memory consistency models: A tutorial.
+\newblock {\em computer}, 29(12):66--76, 1996.
+
+\bibitem{owens2009better}
+Scott Owens, Susmit Sarkar, and Peter Sewell.
+\newblock A better x86 memory model: x86-tso.
+\newblock In {\em International Conference on Theorem Proving in Higher Order
+  Logics}, pages 391--407. Springer, 2009.
+
+\bibitem{maranget2012tutorial}
+Luc Maranget, Susmit Sarkar, and Peter Sewell.
+\newblock A tutorial introduction to the arm and power relaxed memory models.
+\newblock {\em Draft available from http://www. cl. cam. ac. uk/\~{}
+  pes20/ppc-supplemental/test7. pdf}, 2012.
+
+\bibitem{lamport1979make}
+Leslie Lamport.
+\newblock How to make a multiprocessor computer that correctly executes
+  multiprocess progranm.
+\newblock {\em IEEE transactions on computers}, C-28(9):690--691, 9 1979.
+
+\bibitem{boehm2008foundations}
+Hans-J Boehm and Sarita~V Adve.
+\newblock Foundations of the c++ concurrency memory model.
+\newblock In {\em ACM SIGPLAN Notices}, volume~43, pages 68--78. ACM, 2008.
+
+\bibitem{guiady1999sc+}
+Chris Guiady, Babak Falsafi, and Terani~N Vijaykumar.
+\newblock Is sc+ ilp= rc?
+\newblock In {\em Computer Architecture, 1999. Proceedings of the 26th
+  International Symposium on}, pages 162--171. IEEE, 1999.
+
+\bibitem{ceze2007bulksc}
+Luis Ceze, James Tuck, Pablo Montesinos, and Josep Torrellas.
+\newblock Bulksc: bulk enforcement of sequential consistency.
+\newblock {\em ACM SIGARCH Computer Architecture News}, 35(2):278--289, 2007.
+
+\bibitem{blundell2009invisifence}
+Colin Blundell, Milo~MK Martin, and Thomas~F Wenisch.
+\newblock Invisifence: performance-transparent memory ordering in conventional
+  multiprocessors.
+\newblock In {\em ACM SIGARCH Computer Architecture News}, volume~37, pages
+  233--244. ACM, 2009.
+
+\bibitem{choi2011denovo}
+Byn Choi, Rakesh Komuravelli, Hyojin Sung, Robert Smolinski, Nima Honarmand,
+  Sarita~V Adve, Vikram~S Adve, Nicholas~P Carter, and Ching-Tsun Chou.
+\newblock Denovo: Rethinking the memory hierarchy for disciplined parallelism.
+\newblock In {\em Parallel Architectures and Compilation Techniques (PACT),
+  2011 International Conference on}, pages 155--166. IEEE, 2011.
+
+\bibitem{devietti2012radish}
+Joseph Devietti, Benjamin~P Wood, Karin Strauss, Luis Ceze, Dan Grossman, and
+  Shaz Qadeer.
+\newblock Radish: always-on sound and complete ra d etection in s oftware and h
+  ardware.
+\newblock In {\em ACM SIGARCH Computer Architecture News}, volume~40, pages
+  201--212. IEEE Computer Society, 2012.
+
+\bibitem{singh2013end}
+Abhayendra Singh, Todd Millstein, Madan Musuvathi, Satish Narayanasamy, and
+  Daniel Marino.
+\newblock End-to-end sequential consistency.
+\newblock {\em IEEE Micro}, 99(1):1, 2013.
+
+\bibitem{intel2009quickpath}
+Intel.
+\newblock Introduction to the intel quickpath interconnect, 2009.
+
+\bibitem{ARMCoreLinkInterconnect}
+ARM.
+\newblock Corelink interconnect.
+\newblock \url{https://www.arm.com/products/system-ip/corelink-interconnect }.
+\newblock Accessed 10 May 2018.
+
+\bibitem{ARMCoreLinkGIC}
+ARM.
+\newblock Corelink generic interrupt controllers.
+\newblock
+  \url{https://developer.arm.com/products/system-ip/system-controllers/interrupt-controllers
+  }.
+\newblock Accessed 10 May 2018.
+
+\bibitem{ARMCoreLinkCCN}
+ARM.
+\newblock Corelink cache coherent network family.
+\newblock
+  \url{https://developer.arm.com/products/system-ip/corelink-interconnect/corelink-cache-coherent-network-family
+  }.
+\newblock Accessed 10 May 2018.
+
+\bibitem{ARMCoreLinkMC}
+ARM.
+\newblock Corelink memory controllers.
+\newblock
+  \url{https://www.arm.com/products/system-ip/corelink-memory-controllers }.
+\newblock Accessed 10 May 2018.
+
+\bibitem{Foster2014WRGReport}
+Harry Foster.
+\newblock Part 8: The 2014 wilson research group functional verification study.
+\newblock
+  \url{https://blogs.mentor.com/verificationhorizons/blog/2015/07/13/part-8-the-2014-wilson-research-group-functional-verification-study/
+  }, 2014.
+\newblock Accessed 29 May 2018.
+
+\bibitem{binkert2011gem5}
+Nathan Binkert, Bradford Beckmann, Gabriel Black, Steven~K Reinhardt, Ali
+  Saidi, Arkaprava Basu, Joel Hestness, Derek~R Hower, Tushar Krishna, Somayeh
+  Sardashti, et~al.
+\newblock The gem5 simulator.
+\newblock {\em ACM SIGARCH Computer Architecture News}, 39(2):1--7, 2011.
+
+\bibitem{miller2010graphite}
+Jason~E Miller, Harshad Kasture, George Kurian, Charles Gruenwald, Nathan
+  Beckmann, Christopher Celio, Jonathan Eastep, and Anant Agarwal.
+\newblock Graphite: A distributed parallel simulator for multicores.
+\newblock In {\em High Performance Computer Architecture (HPCA), 2010 IEEE 16th
+  International Symposium on}, pages 1--12. IEEE, 2010.
+
+\bibitem{mukherjee2000wisconsin}
+Shubhendu~S Mukherjee, Steven~K Reinhardt, Babak Falsafi, Mike Litzkow, Mark~D
+  Hill, David~A Wood, Steven Huss-Lederman, and James~R Larus.
+\newblock Wisconsin wind tunnel ii: a fast, portable parallel architecture
+  simulator.
+\newblock {\em IEEE Concurrency}, 8(4):12--20, 2000.
+
+\bibitem{bombieri2012systemc}
+Nicola Bombieri, Sara Vinco, Valeria Bertacco, and Debapriya Chatterjee.
+\newblock Systemc simulation on gp-gpus: Cuda vs. opencl.
+\newblock In {\em Proceedings of the eighth IEEE/ACM/IFIP international
+  conference on Hardware/software codesign and system synthesis}, pages
+  343--352. ACM, 2012.
+
+\bibitem{nanjundappa2012accelerating}
+Mahesh Nanjundappa, Anirudh Kaushik, Hiren~D Patel, and Sandeep~K Shukla.
+\newblock Accelerating systemc simulations using gpus.
+\newblock In {\em High Level Design Validation and Test Workshop (HLDVT), 2012
+  IEEE International}, pages 132--139. IEEE, 2012.
+
+\bibitem{schmidt2017hybrid}
+Tim Schmidt, Guantao Liu, and Rainer D{\"o}mer.
+\newblock Hybrid analysis of systemc models for fast and accurate parallel
+  simulation.
+\newblock In {\em Design Automation Conference (ASP-DAC), 2017 22nd Asia and
+  South Pacific}, pages 226--231. IEEE, 2017.
+
+\bibitem{ventroux2014highly}
+Nicolas Ventroux, Julien Peeters, Tanguy Sassolas, and James~C Hoe.
+\newblock Highly-parallel special-purpose multicore architecture for
+  systemc/tlm simulations.
+\newblock In {\em Embedded Computer Systems: Architectures, Modeling, and
+  Simulation (SAMOS XIV), 2014 International Conference on}, pages 250--257.
+  IEEE, 2014.
+
+\bibitem{vinco2012saga}
+Sara Vinco, Valeria Bertacco, Debapriya Chatterjee, and Franco Fummi.
+\newblock Saga: Systemc acceleration on gpu architectures.
+\newblock In {\em Design Automation Conference (DAC), 2012 49th ACM/EDAC/IEEE},
+  pages 115--120. IEEE, 2012.
+
+\bibitem{weinstock2016systemc}
+Jan~Henrik Weinstock, Rainer Leupers, Gerd Ascheid, Dietmar Petras, and Andreas
+  Hoffmann.
+\newblock Systemc-link: Parallel systemc simulation using time-decoupled
+  segments.
+\newblock In {\em Proceedings of the 2016 Conference on Design, Automation \&
+  Test in Europe}, pages 493--498. EDA Consortium, 2016.
 
 \end{thebibliography}

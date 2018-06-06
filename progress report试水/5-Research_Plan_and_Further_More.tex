@@ -1,0 +1,24 @@
+\chapter{Plan \& Future Work}
+\section{Introduction and Objective}
+
+\par
+The multi-core bottleneck and the dimension returns of Moore's Law have shown the need of a more efficient architecture for computing. The increasing demand of computing resources from high performance computer to mobile devices to IoT devices is also pushing the developing of computing machines. Many core system or in terms of massively parallel processors has shown their potential in the future.
+Meanwhile, the increasing demand on computing has also raised a higher requirement for IC design house. However, the work load on verification stage, pre-silicon period, is no limiting the productivity.
+By the way, the RISC-V will also shows its vitality in almost all the area of computer. 
+\par 
+For this project, the main target is extending the application area for Massively Parallel Platforms (The POETS of our school), focusing on using a MPPs platform as the simulation accelerator for IC design, and especially for the simulation of RISC-V. A further more target is trying to do some contribution for the development of MPPs.
+For the most recent target, a single core RISC-V model will be built using a high level abstraction language (SystemC)  as a practice and a pre-work. Below is the details for the plan in about one year.
+
+
+\section{Single Core RISC-V Stage}
+A single core RISC-V SystemC model will be built as soon as possible. The target is let the model can running several RV32-I programs and further more is the Compatibility Test.
+Then is trying more simulation method for this model, first one is using CUDA and GPU for simulation, the second one is using FPGA as an accelerator. 
+Meanwhile, this model will be extended to more levels: RTL, Gate and Netlist level in order to improving myself and finding out the faults in the model.
+Finally, the simulation will be execution in the MPPs and a primary simulator for RISC-V on MPPs will be developed.
+\section{Multi-core RISC-V Simulation Stage}
+The communication network is the most important part in a MPPs platform or many-core system. While the designing of Multi-core RISC-V system, a network model with a communication protocol will be built.Then is the model of multi-core RISC-V. A simulator for this model on MPPs will also be developed. Finally, a RISC-V based event-driven massively parallel processor system is hopefully generated.  
+
+\section{Resources Needed}
+A GPU platform is needed for the simulation. A FPGA board is needed for the evaluation. The computing support from the POETS platform will also be needed. Moreover, I wish the library could purchase several books for the research:
+\par 1.     Computer Organization and Design (RISC-V Edition) The Hardware Software Interface
+We have the 5th edition (2014) in our library but which is always on loan. For this book is a newer version and keeps the state of art in computer architecture: RISC-V. Which will be a very useful book.

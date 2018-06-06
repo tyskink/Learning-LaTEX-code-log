@@ -6,3 +6,41 @@
 \contentsline {section}{\numberline {1.2}Research Challenges}{3}{section.9}
 \contentsline {section}{\numberline {1.3}Research Objective}{3}{section.10}
 \contentsline {section}{\numberline {1.4}Report Structure}{4}{section.11}
+\contentsline {chapter}{\numberline {2}Literature Review}{5}{chapter.12}
+\contentsline {section}{\numberline {2.1}Fundamental of Computer Architecture}{5}{section.13}
+\contentsline {subsection}{\numberline {2.1.1}Instruction Level Parallelism (ILP) Wall, Power Wall, and Memory Wall\cite {wulf1995hitting}}{5}{subsection.14}
+\contentsline {subsection}{\numberline {2.1.2}Instruction Set Architecture (ISA)}{6}{subsection.15}
+\contentsline {subsection}{\numberline {2.1.3}Multi-core}{6}{subsection.16}
+\contentsline {subsection}{\numberline {2.1.4}Heterogeneous and the future of computer}{7}{subsection.17}
+\contentsline {subsection}{\numberline {2.1.5}Non-silicon and the effect of new materials}{7}{subsection.18}
+\contentsline {subsection}{\numberline {2.1.6}Summary}{8}{subsection.19}
+\contentsline {section}{\numberline {2.2}Parallel Architecture and Topology}{8}{section.20}
+\contentsline {subsection}{\numberline {2.2.1}Definition and organization of parallel architecture}{9}{subsection.21}
+\contentsline {subsection}{\numberline {2.2.2}Synchronization problem}{11}{subsection.22}
+\contentsline {subsection}{\numberline {2.2.3}Performance overhead and speedup}{12}{subsection.23}
+\contentsline {section}{\numberline {2.3}Communication, Network on Chip (NoC) and System on Chip (SoC)}{13}{section.24}
+\contentsline {subsection}{\numberline {2.3.1}Topologies and architecture}{14}{subsection.25}
+\contentsline {subsection}{\numberline {2.3.2}Router, routing algorithms and flow control}{14}{subsection.26}
+\contentsline {subsection}{\numberline {2.3.3}Communication and protocols}{15}{subsection.27}
+\contentsline {subsection}{\numberline {2.3.4}QoS and reliability}{16}{subsection.28}
+\contentsline {subsection}{\numberline {2.3.5}Furthermore, and conclusion}{16}{subsection.29}
+\contentsline {section}{\numberline {2.4}Memory Hierarchy and Cache Coherency}{17}{section.30}
+\contentsline {subsection}{\numberline {2.4.1}Memory Hierarchy}{17}{subsection.31}
+\contentsline {subsection}{\numberline {2.4.2}Memory Materials}{18}{subsection.32}
+\contentsline {subsection}{\numberline {2.4.3}Memory Consistency and Cache Coherency}{18}{subsection.33}
+\contentsline {subsection}{\numberline {2.4.4}Communication for cache coherence}{21}{subsection.34}
+\contentsline {section}{\numberline {2.5}Simulation}{21}{section.35}
+\contentsline {section}{\numberline {2.6}Summary and Plan}{22}{section.36}
+\contentsline {chapter}{\numberline {3}Case study}{23}{chapter.37}
+\contentsline {section}{\numberline {3.1}RISC-V}{23}{section.38}
+\contentsline {section}{\numberline {3.2}SpiNNaker Project}{23}{section.39}
+\contentsline {chapter}{\numberline {4}Practice: SystemC with RISC-V}{25}{chapter.40}
+\contentsline {section}{\numberline {4.1}Generate the execution code and disassemble code}{25}{section.41}
+\contentsline {section}{\numberline {4.2}The Simulation results}{25}{section.42}
+\contentsline {subsection}{\numberline {4.2.1}Counter}{25}{subsection.43}
+\contentsline {chapter}{\numberline {5}Plan \& Future Work}{27}{chapter.44}
+\contentsline {section}{\numberline {5.1}Introduction and Objective}{27}{section.45}
+\contentsline {section}{\numberline {5.2}Single Core RISC-V Stage}{27}{section.46}
+\contentsline {section}{\numberline {5.3}Multi-core RISC-V Simulation Stage}{28}{section.47}
+\contentsline {section}{\numberline {5.4}Resources Needed}{28}{section.48}
+\contentsline {chapter}{References}{29}{dummy.49}
