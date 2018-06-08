@@ -122,6 +122,12 @@ Joel Emer, Pritpal Ahuja, Eric Borch, Artur Klauser, Chi-Keung Luk, Srilatha
 \newblock Asim: A performance model framework.
 \newblock {\em Computer}, 35(2):68--76, 2002.
 
+\bibitem{ZARRIN201707Manycore}
+Javad Zarrin, Rui~L. Aguiar, and João~Paulo Barraca.
+\newblock Manycore simulation for peta-scale system design: Motivation, tools,
+  challenges and prospects.
+\newblock {\em Simulation Modelling Practice and Theory}, 72:168 -- 201, 2017.
+
 \bibitem{patterson2017computer}
 David~A Patterson and John~L Hennessy.
 \newblock {\em Computer Organization and Design RISC-V Edition: The

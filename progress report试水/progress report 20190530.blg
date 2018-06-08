@@ -16,45 +16,45 @@ Warning--can't use both volume and number fields in kelm2010cohesion
 Warning--can't use both volume and number fields in boehm2008foundations
 Warning--can't use both volume and number fields in blundell2009invisifence
 Warning--can't use both volume and number fields in devietti2012radish
-You've used 116 entries,
+You've used 117 entries,
             1791 wiz_defined-function locations,
-            1079 strings with 26082 characters,
-and the built_in function-call counts, 32870 in all, are:
-= -- 3082
-> -- 1461
+            1086 strings with 26320 characters,
+and the built_in function-call counts, 33126 in all, are:
+= -- 3105
+> -- 1472
 < -- 53
-+ -- 536
-- -- 420
-* -- 2180
-:= -- 4879
-add.period$ -- 397
-call.type$ -- 116
-change.case$ -- 109
++ -- 540
+- -- 423
+* -- 2200
+:= -- 4920
+add.period$ -- 400
+call.type$ -- 117
+change.case$ -- 110
 chr.to.int$ -- 0
-cite$ -- 124
-duplicate$ -- 1507
-empty$ -- 3137
-format.name$ -- 420
-if$ -- 7598
+cite$ -- 125
+duplicate$ -- 1516
+empty$ -- 3162
+format.name$ -- 423
+if$ -- 7655
 int.to.chr$ -- 0
-int.to.str$ -- 116
-missing$ -- 114
-newline$ -- 590
-num.names$ -- 116
-pop$ -- 435
+int.to.str$ -- 117
+missing$ -- 115
+newline$ -- 595
+num.names$ -- 117
+pop$ -- 436
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 808
+skip$ -- 811
 stack$ -- 0
-substring$ -- 2292
-swap$ -- 544
+substring$ -- 2319
+swap$ -- 545
 text.length$ -- 53
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 8
-while$ -- 335
-width$ -- 119
-write$ -- 1320
+while$ -- 337
+width$ -- 120
+write$ -- 1331
 (There were 8 warnings)

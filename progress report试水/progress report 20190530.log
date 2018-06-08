@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.4.23)  2 JUN 2018 19:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.4.23)  7 JUN 2018 09:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -642,7 +642,7 @@ s in processor-memory communication[[]].
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-[2]) [3] [4]
+[2] [3]) [4]
 \openout2 = `2-Literature_Review.aux'.
 
  (./2-Literature_Review.tex
@@ -752,23 +752,26 @@ Chapter 5.
 
 
 
-] [30]
+]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [30]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 177.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 183.
  [31] [32] [33] [34]
-Underfull \hbox (badness 1048) in paragraph at lines 461--468
+Underfull \hbox (badness 1048) in paragraph at lines 467--474
 []\OT1/cmr/m/n/10.95 Joel Hruska.  How l1 and l2 cpu caches work, and why they'
 re an es-
  []
 
 
-Underfull \hbox (badness 3088) in paragraph at lines 461--468
+Underfull \hbox (badness 3088) in paragraph at lines 467--474
 \OT1/cmr/m/n/10.95 sen-tial part of mod-ern chips.  [][]$\OT1/cmtt/m/n/10.95 ht
 tps : / / www . extremetech . com / extreme /
  []
 
 
-Overfull \hbox (110.19043pt too wide) in paragraph at lines 461--468
+Overfull \hbox (110.19043pt too wide) in paragraph at lines 467--474
 \OT1/cmtt/m/n/10.95 188776-[]how-[]l1-[]and-[]l2-[]cpu-[]caches-[]work-[]and-[]
 why-[]theyre-[]an-[]essential-[]part-[]of-[]modern-[]chips$[][]\OT1/cmr/m/n/10.
 95 ,
@@ -780,31 +783,31 @@ Missing character: There is no ® in font cmti10!
 Missing character: There is no Â in font cmti10!
 Missing character: There is no ® in font cmti10!
  [36]
-Underfull \hbox (badness 1521) in paragraph at lines 601--606
+Underfull \hbox (badness 1521) in paragraph at lines 607--612
 []\OT1/cmr/m/n/10.95 Colin Blun-dell, Milo MK Mar-tin, and Thomas F Wenisch.  I
 n-visifence:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 647--653
+Underfull \hbox (badness 10000) in paragraph at lines 653--659
 []\OT1/cmr/m/n/10.95 ARM.  Core-link cache co-her-ent net-work fam-ily.  [][]$\
 OT1/cmtt/m/n/10.95 https : / /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 647--653
+Underfull \hbox (badness 10000) in paragraph at lines 653--659
 \OT1/cmtt/m/n/10.95 developer . arm . com / products / system-[]ip / corelink-[
 ]interconnect /
  []
 
 
-Underfull \hbox (badness 2875) in paragraph at lines 655--660
+Underfull \hbox (badness 2875) in paragraph at lines 661--666
 []\OT1/cmr/m/n/10.95 ARM.  Core-link mem-ory con-trollers.  [][]$\OT1/cmtt/m/n/
 10.95 https : / / www . arm . com / products /
  []
 
 
-Overfull \hbox (8.96274pt too wide) in paragraph at lines 662--668
+Overfull \hbox (8.96274pt too wide) in paragraph at lines 668--674
 \OT1/cmtt/m/n/10.95 part-[]8-[]the-[]2014-[]wilson-[]research-[]group-[]functio
 nal-[]verification-[]study/$[][]\OT1/cmr/m/n/10.95 ,
  []
@@ -825,13 +828,13 @@ ged.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 56.
  ) 
 Here is how much of TeX's memory you used:
- 13480 strings out of 492982
- 195423 string characters out of 6136225
- 261571 words of memory out of 5000000
- 16621 multiletter control sequences out of 15000+600000
+ 13484 strings out of 492982
+ 195532 string characters out of 6136225
+ 261588 words of memory out of 5000000
+ 16624 multiletter control sequences out of 15000+600000
  12530 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,12n,45p,1624b,857s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,12n,45p,1624b,861s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2017
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2017/texmf-dis
@@ -842,10 +845,10 @@ amsfonts/cm/cmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
 fb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/tex
 live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2017
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "progress report 20190530.pdf" (48 pages, 265377 bytes).
+Output written on "progress report 20190530.pdf" (48 pages, 265936 bytes).
 PDF statistics:
- 853 PDF objects out of 1000 (max. 8388607)
- 784 compressed objects within 8 object streams
- 215 named destinations out of 1000 (max. 500000)
+ 855 PDF objects out of 1000 (max. 8388607)
+ 786 compressed objects within 8 object streams
+ 216 named destinations out of 1000 (max. 500000)
  369 words of extra memory for PDF output out of 10000 (max. 10000000)
 
